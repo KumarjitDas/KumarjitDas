@@ -1,9 +1,9 @@
 👋 Hi, I’m **Kumarjit Das**, a professional software engineer at **Keross R&D Center**, Kolkata, India. With expertise in **front-end and backend web technologies**, I bring ideas to life as a full-stack developer.
 
 ### 🌟 About Me:
-- 🌐 I specialize in **HTML, CSS, JavaScript, React, NextJS**, and more for crafting seamless front-end experiences.
+- 🌐 I specialize in **HTML, CSS, JavaScript(vanilla & jQuery), TypeScript, React, NextJS**, and more for crafting seamless front-end experiences.
 - 💻 On the backend, I work daily with **Python** and **Java**, creating scalable and efficient solutions.
-- 💾 Proficient in relational databases like **MySQL**, **MariaDB**, and **Postgres**, as well as NoSQL databases like **MongoDB**. I use **MariaDB** and **MongoDB** daily at work.
+- 💾 Proficient in relational databases like **MySQL**, **MariaDB**, and **Postgres**, as well as NoSQL databases like **MongoDB**.
 - 💡 I also use **C** for microcontrollers, embedded systems, and operating system-level programming.
 - 🛠️ Experienced in **PHP** through personal projects.
 - 💻 I enjoy building **desktop applications** using **Python**, **Java**, and **C**.
@@ -19,7 +19,6 @@ Here are some of my favorite creations:
 - **[ChatPy](https://github.com/KumarjitDas/ChatPy)**: A client for various AI services.
 - **[P2Py](https://github.com/KumarjitDas/PyMessenger)**: A serverless P2P messaging app.
 - **[Clippython](https://github.com/KumarjitDas/Clippython)**: A video editor for creating clips.
-- **[DOMCharts](https://github.com/KumarjitDas/DOMCharts)**: A charting library using pure DOM.
 
 ### 🎯 Goals:
 - 💡 Contribute more to **open source** projects.
